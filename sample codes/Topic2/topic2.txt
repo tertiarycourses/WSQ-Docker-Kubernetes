@@ -1,0 +1,21 @@
+# Activity: Docker Compose 1
+docker-compose up
+docker-compose down
+
+# Activity: Docker Compose 2
+docker-compose up
+docker-compose down
+
+# Activity: Binding with Volume
+docker-compose up
+url http://localhost:5000
+docker-compose down
+
+# Activity: Install Wordpress 
+docker-compose up
+docker-compose down
+
+# Activity: Voting App
+docker-compose up
+docker-compose down
+
